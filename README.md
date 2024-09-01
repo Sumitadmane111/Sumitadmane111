@@ -1,8 +1,8 @@
 ## Hi there 👋 i am Sumit Admane
 A highly motivated and dedicated Data Science student looking for a position in Data Science an esteemed organization where I can utilize my skills for the growth of the organization. 
-  • I'm a data analyst 
-  • Ask me about Python,MYSQL,Tableau,Power BI,Excel,Machine Learning
-  • How to reach me:admanesumit108@gmail.com
+ /n • I'm a data analyst 
+ /n • Ask me about Python,MYSQL,Tableau,Power BI,Excel,Machine Learning
+ /n • How to reach me:admanesumit108@gmail.com
 <!--
 **Sumitadmane111/Sumitadmane111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
