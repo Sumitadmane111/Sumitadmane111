@@ -1,4 +1,4 @@
-## Hi there 👋 i am Sumit Admane
+## Hi there 👋 I am Sumit Admane
 A highly motivated and dedicated Data Science student looking for a position in Data Science an esteemed organization where I can utilize my skills for the growth of the organization. 
  - I'm a data analyst 
  - Ask me about Python,MYSQL,Tableau,Power BI,Excel,Machine Learning
